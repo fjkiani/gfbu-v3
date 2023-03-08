@@ -19,7 +19,7 @@ const AboutPage = () => {
             <div className='underline'></div>
           </div>
           <p>
-          started long before we knew the ending. Our namesake, Uzma, never intended to be a chef- she actually didn't learn to cook until she was married. It was circumstance that led her to discover her talent, and practice that refined it. And this talent is what inspired our restaurant- our family's labour of love, built with our hands and without a blueprint.
+          started long before we knew the ending - Our namesake, Uzma, never intended to be a chef- she actually didn't learn to cook until she was married. It was circumstance that led her to discover her talent, and practice that refined it. And this talent is what inspired our restaurant- our family's labour of love, built with our hands and without a blueprint.
           </p>
           <br/><hr/><br/><br/>
           <div className='title'>
