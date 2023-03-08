@@ -35,7 +35,7 @@ function App() {
           <Contact />
         </Route>
          <Route exact path='/catering'>
-          <Catering />
+          <Contact />
         </Route>
         <Route path='/cart'>
           <Cart />
